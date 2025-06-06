@@ -3,7 +3,7 @@
 A modern web-based space shooter game inspired by the classic Galaxian arcade game. Built using p5.js for smooth graphics and gameplay.
 
 ![Space Shooter Game](imgs/space-shooter-screenshot.png)
-Play Now: https://chenling65.github.io/space-shooter-game/space_shooter_part_five.html
+[![Play Now](https://img.shields.io/badge/Play%20Now-FF7F00?style=for-the-badge&logo=game-controller&logoColor=white)](https://chenling65.github.io/space-shooter-game/space_shooter_part_five.html)
 
 ## 🎮 Features
 
